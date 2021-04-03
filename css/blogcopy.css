@@ -1,0 +1,30 @@
+.copybutton {
+    width: 52px;
+    height: 24px;
+    background: rgba(86, 98, 115, .5);
+    font-size: .6875rem;
+    font-weight: 600;
+    letter-spacing: .5px;
+    text-transform: uppercase;
+    color: #fff;
+    padding: 5px 9px;
+    border-radius: .5625rem;
+    cursor: pointer;
+    position: absolute;
+    top: 12px;
+    right: 45px;
+    white-space: nowrap;
+}
+
+.itemcopy {
+    font-family: Menlo, monospace !important;
+    font-size: 15px;
+    border: 1px solid #d6e0ef !important;
+    background: #f2f6fa !important;
+    color: #333 !important;
+    border-radius: .5625rem;
+    color: #fff;
+    position: relative;
+    padding: 15px 80px 15px 15px;
+    border: 1px solid #fff;
+}
